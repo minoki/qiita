@@ -1,11 +1,11 @@
 ---
 title: どういう時に型注釈を書くか
 tags:
-  - '型'
-  - '型推論'
+  - 型
+  - 型推論
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-04-29T15:04:35+09:00'
+id: a66d7679e0f87729bf11
 organization_url_name: null
 slide: false
 ignorePublish: false
